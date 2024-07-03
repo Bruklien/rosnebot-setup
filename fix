@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+sudo chmod +x ./install-catbots
+sudo chmod +x ./start
+sudo chmod +x ./stop
+sudo chmod +x ./startdeb
+sudo chmod +x ./update
+sudo chmod +x ./remove-legacy
