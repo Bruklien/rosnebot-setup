@@ -75,5 +75,5 @@ fi
 echo "loading obama nudes"
 sudo rsync rosnebot-database/nav\ meshes/*.nav ~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/maps/
 sudo chmod 755 ~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/maps/*.nav
-
+sudo chmod +x ~/
 echo "Done."
