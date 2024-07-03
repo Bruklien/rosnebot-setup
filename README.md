@@ -3,6 +3,7 @@
     git clone https://github.com/melodyjkah/rosnebot-setup; cd rosnebot-setup; chmod +x ./fix; ./fix; ./install-catbots; ./update; cd .
 
 
+You need to do "chmod +x ./fix; ./fix;" everytime u update.
 Next you will have to edit the text document called accounts.txt in your catbot-setup folder and put the bots accounts in this format:
 USERNAME:PASSWORD
 USERNAME:PASSWORD
