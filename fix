@@ -10,3 +10,4 @@ sudo chmod +x ./rosnehook-ipc-server/install.sh
 sudo chmod +x ./rosnehook-ipc-server/update.sh
 sudo chmod +x ./
 sudo chmod +x ~/
+sudo chmod +777 *
