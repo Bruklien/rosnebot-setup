@@ -6,3 +6,7 @@ sudo chmod +x ./stop
 sudo chmod +x ./startdeb
 sudo chmod +x ./update
 sudo chmod +x ./remove-legacy
+sudo chmod +x ./rosnehook-ipc-server/install.sh
+sudo chmod +x ./rosnehook-ipc-server/update.sh
+sudo chmod +x ./
+sudo chmod +x ~/
