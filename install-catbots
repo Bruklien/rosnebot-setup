@@ -116,7 +116,7 @@ if [ -d ~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/maps/ ]; then
     sudo chmod 755 ~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/maps/*.nav # fixup permissions so tf2 is happy
     echo "Done copying navmeshes."
 fi
-
+sudo chmod +777 *
 echo
 echo "The web panel can be started with ./start"
 echo
