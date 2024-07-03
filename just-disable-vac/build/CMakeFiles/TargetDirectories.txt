@@ -1,0 +1,4 @@
+/home/kitty/rosnebot-setup/just-disable-vac/build/CMakeFiles/just-disable-vac64.dir
+/home/kitty/rosnebot-setup/just-disable-vac/build/CMakeFiles/just-disable-vac32.dir
+/home/kitty/rosnebot-setup/just-disable-vac/build/CMakeFiles/edit_cache.dir
+/home/kitty/rosnebot-setup/just-disable-vac/build/CMakeFiles/rebuild_cache.dir

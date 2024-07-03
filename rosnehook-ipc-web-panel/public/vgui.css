@@ -1,0 +1,168 @@
+
+.vgui-font {
+    color: #d8d8d8;
+
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+
+    -webkit-font-smoothing: none;
+}
+
+input {
+    text-align: left;
+}
+
+input:not([type=button]), .vgui-inset {
+    border: 1px solid #292b41;
+    background: #1e2030;
+    color: #d8dfd3;
+}
+
+input[type=button]:not(:active), .vgui-outset {
+    color: #d8dfd3;
+    border: 1px solid #292b41;
+    background: #1e2030;
+}
+
+input[type=button]:active {
+    border: 1px solid #292b41;
+    background: #1e2030;
+    color: #d8dfd3;
+}
+
+.vgui-container {
+    padding: 4px;
+    background: #181926;
+}
+
+.vgui-select {
+    display: block;
+    min-width: 8em;
+    padding: 3px;
+    padding-right: 16px;
+    border: 1px solid #292b41;
+    background: url('vgui-dropdown.png') #1e2030 no-repeat right 2px center;
+    color: #d8dfd3;
+}
+
+.vgui-select-hidden {
+    display: none;
+}
+
+.vgui-select-container {
+    position: relative;
+}
+
+.vgui-select-list {
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    z-index: 3;
+    padding: 0;
+    margin-top: 2px;
+}
+
+.vgui-select-option {
+    padding: 3;
+    width: 100%;
+}
+
+.vgui-select-option:hover {
+    background: #8aadf4;
+}
+
+::selection {
+    background: #8aadf4;
+    color: white;
+}
+
+.vgui-table {
+    font-size: 10px;
+    border-collapse: separate;
+    border-spacing: 0px;
+}
+
+.vgui-table td {
+    padding: 2px 6px;
+    min-width: 3em;
+}
+
+.vgui-table tbody tr:nth-child(even)
+{
+    background: rgba(0, 0, 0, 0.15); 
+}
+
+.vgui-table tbody tr:first-child {
+    background: #1e2030;
+}
+
+.vgui-table tbody tr:first-child td {
+    border: 1px solid #292b41;
+}
+
+input:not([type=checkbox]) {
+    padding: 3px;
+    font-size: 10px;
+    min-width: 62px;
+}
+
+input[type=checkbox]:before {
+    border: 1px solid #292b41;
+    background: #1e2030;
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+.vgui-button-centered {
+    text-align: center;
+}
+
+input[type=checkbox]:checked:before {
+    background: url('vgui-checkbox.png') #1e2030;
+}
+
+[disabled], .vgui-disabled {
+    border: 1px solid #292b41;
+    background: #1e2030;
+}
+
+.noselect {
+    cursor: default;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+option:hover {
+    background: #1e2030;
+}
+
+*:focus {
+    outline: none;
+}
+
+hr {
+    border: 0;
+    border: 1px solid #292b41;
+    background: #1e2030;
+}
+
+.nopad {
+    padding: 0;
+}
+
+.vmiddle * {
+    vertical-align: middle;
+}
+

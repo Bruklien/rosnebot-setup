@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Ofast -s -fvisibility=hidden -fvisibility-inlines-hidden -ldl -shared -Wl,-soname,libvpcfs.so.0 -o bin64/libvpcfs.so.0 "CMakeFiles/just-disable-vac64.dir/src/hooks.cpp.o" "CMakeFiles/just-disable-vac64.dir/src/fakedev.cpp.o"
