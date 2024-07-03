@@ -1,4 +1,4 @@
-# Download and Install Melo-bots
+# Download and Install melodybots
 
     git clone https://github.com/melodyjkah/rosnebot-setup; cd rosnebot-setup; chmod +x ./fix; ./fix; ./install-catbots; ./update; cd .
 
