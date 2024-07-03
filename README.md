@@ -12,7 +12,7 @@ USERNAME:PASSWORD
 
 ## Required Dependencies
 Arch/Manjaro/Garuda (High Support)
-`sudo pacman -Syu git boost cmake make gcc gdb lib32-sdl2 lib32-glew lib32-freetype2 rsync lib32-libglvnd dialog curl nodejs npm firejail net-tools xorg-xhost xorg-server-xvfb`
+`sudo pacman -Syu git boost cmake make gcc gdb lib32-sdl2 lib32-glew lib32-freetype2 rsync lib32-libglvnd dialog curl nodejs npm firejail net-tools xorg-xhost xorg-server-xvfb dialog`
 
 ## For other distros (use manjaro pls)
 
