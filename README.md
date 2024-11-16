@@ -1,6 +1,6 @@
-# Download and Install melodybots
+# Download and Install bruklienbots
 
-    git clone https://github.com/melodyjkah/rosnebot-setup; cd rosnebot-setup; chmod +x ./fix; ./fix; ./install-catbots; ./update; cd .
+    git clone https://github.com/Bruklien/rosnebot-setup; cd rosnebot-setup; chmod +x ./fix; ./fix; ./install-catbots; ./update; cd .
 
 
 You need to do "chmod +x ./fix; ./fix;" everytime u update.
